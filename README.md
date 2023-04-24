@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mahmudul Hasan. I'm a physics graduate. 
-- 👀 I’m interested in Data science. 
-- 🌱 I’m Currently enrolled in a python course for everybody in coursera. Also I'm studying about statistics and linear algebra. 
+- 👀 I’m interested in Machine Learning. 
+- 🌱 I’m Currently enrolled Machine learning specialization course by Andrew Ng on coursera. 
 - 📫 How to reach me ... E-mail : Mahmud15just@gmail.com
