@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mahmudul Hasan. I'm a physics graduate. 
-- 👀 I’m interested in Machine Learning. 
-- 🌱 I’m Currently enrolled Machine learning specialization course by Andrew Ng on coursera. 
+- 👀 I’m interested in Software Engineering. 
+- 🌱 I’m Currently exploring DSA . 
 - 📫 How to reach me ... E-mail : Mahmud15just@gmail.com
