@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mahmudul Hasan. I'm a physics graduate. 
-- 👀 I’m interested in Software Engineering. 
-- 🌱 I’m Currently exploring DSA . 
+- 👀 I’m interested in Machine learning, Deep learning, Natural Language Processing. 
+- 🌱 I’m Currently exploring Machine Learning and Mathematics. 
 - 📫 How to reach me ... E-mail : Mahmud15just@gmail.com
